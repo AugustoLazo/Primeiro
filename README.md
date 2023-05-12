@@ -1,4 +1,4 @@
 # Primeiro
  Meu primeiro repositório
 
-Repositório feito para iniciar testes
+Repositório feito para iniciar testes e estudos!
